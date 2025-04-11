@@ -5,6 +5,7 @@ import page from '@/components/page';
 import HeroSection from '@/components/HeroSection';
 import AboutSection from '@/components/AboutSection';
 import ServicesSection from '@/components/ServicesSection';
+import MembershipPlansSection from '@/components/MembershipPlansSection';
 
 export default function HomePage() {
   return (
@@ -17,6 +18,7 @@ export default function HomePage() {
         <HeroSection />
         <AboutSection />
         <ServicesSection />
+        <MembershipPlansSection />
       </main>
       
       <footer className="py-6 bg-gray-100 dark:bg-gray-800">
