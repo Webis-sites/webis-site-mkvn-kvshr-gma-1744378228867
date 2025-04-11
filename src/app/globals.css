@@ -26,6 +26,10 @@
   --navbar-height: 5rem;
 
   --overlay-opacity: 0.5;
+
+  --card-border-radius: 1rem;
+  --card-shadow: 0 8px 30px rgba(0,0,0,0.12);
+  --card-glass-blur: 8px;
 }
 
     html {
